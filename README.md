@@ -1,6 +1,5 @@
-# Abdullahsabirer
 <h1 align="center">Merhaba 👋, ben Abdullah</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiye'den tutkulu bir ön uç geliştirici adayı</h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=abdullahsbr&label=Profile%20views&color=0e75b6&style=flat" alt = "abdullahsbr" /> </p>
 
